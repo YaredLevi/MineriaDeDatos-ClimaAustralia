@@ -48,4 +48,4 @@ Este proyecto aplica técnicas de **minería de datos** para analizar y extraer 
 ## 📝 Contribuciones
 Si deseas contribuir, ¡eres bienvenido! Puedes hacer un **fork** del proyecto y enviar un **pull request**.
 
-🚀 **Autor:** [Yared Órdenes Vásquez] | ✉️ Contacto: [Yaredlevi@outlook.com], [www.linkedin.com/in/yaredlevi]
+🚀 **Autor:** Yared Órdenes Vásquez | ✉️ Contacto: Yaredlevi@outlook.com, www.linkedin.com/in/yaredlevi
