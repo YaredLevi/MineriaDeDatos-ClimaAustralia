@@ -42,8 +42,8 @@ Este proyecto aplica técnicas de **minería de datos** para analizar y extraer 
    ```
 
 ## 📎 Recursos
-📂 **Dataset utilizado**: [Enlace a Kaggle / Google Drive]
-📌 **Notebook en Kaggle**: [Enlace al Notebook]
+📂 **Dataset utilizado**: https://www.kaggle.com/datasets/arunavakrchakraborty/australia-weather-data/data?select=Weather+Training+Data.csv
+📌 **Notebook en Kaggle**: https://www.kaggle.com/code/yaredlevi/clima-de-australia
 
 ## 📝 Contribuciones
 Si deseas contribuir, ¡eres bienvenido! Puedes hacer un **fork** del proyecto y enviar un **pull request**.
